@@ -3,6 +3,8 @@
 
 TensorRT is a machine learning framework that is published by Nvidia to run inference that is machine learning inference on their hardware. TensorRT is highly optimized to run on NVIDIA GPUs.
 
+![tensorRT](/tensorrt.PNG)
+
 
 In this repo I segesting free course from coursera for hands on tensorrt:
 
