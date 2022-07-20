@@ -22,3 +22,7 @@ for more information about tensorrt you can see:
 https://developer.nvidia.com/tensorrt
 
 
+maybe it encourage you (!) that after passing course seccessfully you will get certification like this:
+
+![](Coursera_TensorRT.png)
+
